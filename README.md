@@ -53,7 +53,7 @@ Feel free to reach out for collaborations, opportunities, or just to say hi:
 
 ## 🌐 Live Demo
 
-[Visit My Portfolio]((https://salekelfahim.github.io/portfolio/))
+[Visit My Portfolio](https://salekelfahim.github.io/portfolio/)
 
 ---
 
